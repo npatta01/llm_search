@@ -19,20 +19,35 @@ https://towardsdatascience.com/paraphrase-any-question-with-t5-text-to-text-tran
 
 ## TODO:
 
-1) setup initial notebooks
-00a: prepare dataset
-00b: get amazon url page / product image url (low priority)
+**setup initial notebooks** 
 
-2) find 5 good examples
+00a: prepare dataset ✅
+00b: get amazon url page / product image url (low priority) ✅
+
+find 5 good examples ✅
+
+Simple display tool ✅
 
 
-3) Prompting:
+**model/inference: baseline**
+- (initial) bm25 baseline ✅
+
+
+**model/inference: existing model**
+- doc2query
+- llama
+
+
+**data collection / prompting**
 gpt4 prompting
 
-4) Modelling: 
 
+**model/training: finetuned model**
 item title, Gpt 4 rewritten queries
 
-fine tune llama2 / t5 ( show code.. not running)
-show result of un-finetuned and finetuned llama
-Bm25 on item title+doc2query
+fine tune llama2 / t5 
+
+
+
+**model/inference: final model**
+
