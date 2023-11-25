@@ -3,3 +3,5 @@ esci-data/
 data/
 notebooks/.ipynb_checkpoints/
 *.pyc
+results
+wandb
