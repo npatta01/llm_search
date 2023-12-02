@@ -1,0 +1,3 @@
+ipyplot
+rank_bm25
+elasticsearch==7.9.*
