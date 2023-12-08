@@ -1,53 +1,48 @@
-# References
+# Improving Search Results Using Large Language Models
+
+
+## About
+
+Handson workshop for improving some common search problems in e-commerce search using LLM
+
+
+## Setup
+
+Use the below notebook to get started
+
+<a target="_blank" href="https://colab.research.google.com/github/npatta01/llm_search/blob/initial/notebooks/01_setup.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 
 
 ## Slides
 
-https://docs.google.com/presentation/d/1euNXP_DhQhWerUy36AfHlRO2ITcR7ygpHENOFOQHPQI/edit#slide=id.g29be419a9e1_0_38
-
-
-
-## References
-
-
-Paraphrase any question with T5 (Text-To-Text Transfer Transformer) — Pretrained model and training script provided
-https://towardsdatascience.com/paraphrase-any-question-with-t5-text-to-text-transfer-transformer-pretrained-model-and-cbb9e35f1555
+https://docs.google.com/presentation/d/1euNXP_DhQhWerUy36AfHlRO2ITcR7ygpHENOFOQHPQI/edit#slide=id.p
 
 
 
 
-## TODO:
+## Contact
 
-**setup initial notebooks** 
+For help or feedback, please reach out to :
 
-00a: prepare dataset ✅
-00b: get amazon url page / product image url (low priority) ✅
-
-find 5 good examples ✅
-
-Simple display tool ✅
-
-
-**model/inference: baseline**
-- (initial) bm25 baseline ✅
-
-
-**model/inference: existing model**
-- doc2query
-- llama
-
-
-**data collection / prompting**
-gpt4 prompting
-
-
-**model/training: finetuned model**
-item title, Gpt 4 rewritten queries
-
-fine tune llama2 / t5 
+- [Nidhin Pattaniyil](https://www.linkedin.com/in/nidhinpattaniyil/)   
+- [Ravi Yadav](https://www.linkedin.com/in/ravi-kumar-yadav-535b268/)   
+- [Mustafa Zengin](https://www.linkedin.com/in/mustafazengin/)   
 
 
 
-**model/inference: final model**
 
+
+## Acknowledgments
+
+This workshop uses Amazon Shopping Queries Dataset [link](https://arxiv.org/pdf/2206.06588.pdf)
+
+
+
+## Changelog
+
+
+**v1.0**
+- setup for PyData Global 2023
