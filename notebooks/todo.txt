@@ -1,0 +1,62 @@
+fix code.helper.find_results for es; done
+
+some simple es analyzer code ; done
+
+find good examples; done
+
+
+
+ST example: tie it to the adidas query  --- working
+
+
+Remove api key in notebook and make it use .load_env
+
+
+Intro to prompting NP
+present st notebook is the main 
+
+
+ST notebook :
+ - compare with other open / private models
+ - zero short / few shot 
+ - saving gpt output
+relevancy notebook : use chain of thought
+
+
+
+
+
+
+queries:
+
+baseline
+query = "airpod case cute"  # X
+query = "adidas shoes men 15" # X
+
+
+st:
+query = "adidas shoes men 15" # X
+
+
+relevancy:
+query = "norelco shavers for men" # X  relevancy
+
+
+query rewrite:
+query ="gifts for men" # X relevancy
+
+
+
+Prompting:
+
+NB3: general intro 
+
+
+NB4: Relevancy 
+
+NB5: Sequence Tagger
+
+
+NB6: Query Rewrite : gifts for men; query rewrite
+
+NB7: Training Data
