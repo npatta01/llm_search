@@ -10,7 +10,7 @@ Handson workshop for improving some common search problems in e-commerce search 
 
 Use the below notebook to get started
 
-<a target="_blank" href="https://colab.research.google.com/github/npatta01/llm_search/blob/initial/notebooks/01_setup.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/npatta01/llm_search/blob/main/start.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
