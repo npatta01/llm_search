@@ -15,6 +15,7 @@ Use the below notebook to get started
 </a>
 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/npatta01/llm_search/tree/main/HEAD)
 
 ## Slides
 
