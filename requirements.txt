@@ -12,4 +12,4 @@ python-dotenv==1.0.0
 tiktoken==0.5.*
 ctransformers==0.2.27 
 transformers==4.30.0
-tokenizers>=0.13.*
+tokenizers==0.13.*
